@@ -1,2 +1,1 @@
-# Medicart
-Assignment
+# medicart
